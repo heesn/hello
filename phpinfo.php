@@ -1,3 +1,7 @@
 <?
+echo "heeelo";
+
+
+
 phpinfo();
 ?>
